@@ -1,5 +1,4 @@
-# CISB63-midterm
-
+# Web Page Summarization
 ## Patrick Martin
 
 ## October 26, 2023
