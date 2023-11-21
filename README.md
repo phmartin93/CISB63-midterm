@@ -4,4 +4,4 @@
 
 ## October 26, 2023
 
-## This is my midterm for CISB 63
+## This a text summarization and comparison model using NLP techniques
